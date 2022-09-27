@@ -1,0 +1,10 @@
+.carousel-caption h5 {
+  font-size: 36px;
+  color: #ffc107;
+  text-shadow: 2px 2px 2px #333;
+}
+
+.carrossel{
+  width: 1200px;
+  height: 480px;
+}
